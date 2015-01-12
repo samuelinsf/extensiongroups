@@ -17,4 +17,4 @@ Example use:
     nrm       84_786_480_823      111_888_042_578                  0.8
 
 
-A description of the file extensions can be found [here](http://lucene.apache.org/core/4_10_3/core/org/apache/lucene/codecs/lucene410/package-summary.html#file-names).
+A description of the file extensions can be found [here](http://lucene.apache.org/core/3_0_3/fileformats.html#file-names) or for newer solr [here](http://lucene.apache.org/core/4_10_3/core/org/apache/lucene/codecs/lucene410/package-summary.html#file-names).
