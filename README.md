@@ -1,5 +1,6 @@
 # extensiongroups
-report size of and filesystem cache use of solar / lucene indexes by file extension
+Report size of and filesystem cache use of solr / lucene indexes by file extension.
+Using this tool, one can get an idea of which parts of a busy lucene core are in the filesystem cache, and how much more ram is needed to hold the rest of the index. Ideally all of the lucene index fits in ram all the time!
 
 Example use:
 
